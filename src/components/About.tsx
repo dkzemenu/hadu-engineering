@@ -35,7 +35,7 @@ const About = () => {
             rel="noreferrer"
           >
             <svg
-              className="fill-current text-gray-800 dark:text-white hover:text-primary"
+              className="fill-current text-gray-800 dark:text-white hover:text-red-700"
               xmlns="http://www.w3.org/2000/svg"
               width="24"
               height="24"
@@ -51,7 +51,7 @@ const About = () => {
             rel="noreferrer"
           >
             <svg
-              className="fill-current text-gray-800 dark:text-white hover:text-primary"
+              className="fill-current text-gray-800 dark:text-white hover:text-red-700"
               xmlns="http://www.w3.org/2000/svg"
               width="24"
               height="24"
@@ -67,7 +67,7 @@ const About = () => {
             rel="noreferrer"
           >
             <svg
-              className="fill-current text-gray-800 dark:text-white hover:text-primary"
+              className="fill-current text-gray-800 dark:text-white hover:text-red-700"
               xmlns="http://www.w3.org/2000/svg"
               width="24"
               height="24"

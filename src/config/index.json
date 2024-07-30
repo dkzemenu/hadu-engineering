@@ -1,6 +1,6 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "HADU ENGINEERING",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
@@ -9,7 +9,7 @@
       "href": "product"
     },
     {
-      "name": "Features",
+      "name": "Projects",
       "href": "features"
     },
 
@@ -27,10 +27,10 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "title": "Your go-to experts in LV and MV electrical contracting ",
+    "subtitle": "since 2010!",
+    "description": "Power design and installation works. Lifts and escalators installation works. Solar panels supply & installation services. Generator and appliances installation services. Telecom fiber line works. Other Electrical and Mechanical works",
+    "img": "/assets/images/hadu.png",
     "primaryAction": {
       "text": "Get started",
       "href": "#"
@@ -41,43 +41,47 @@
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "HADU ENGINEERING",
     "items": [
       {
-        "title": "A plug n play template",
+        "title": "Power design and installation works.",
         "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Make it your own!",
+        "title": "Generator and appliances installation services!",
+        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "img": "/assets/images/product2.jpg"
+      },
+      {
+        "title": "Telecom power/fiber line works",
         "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
         "img": "/assets/images/product2.jpg"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Latest Projects",
+    "description": "We always strive to be the leading provider of electro-mechanical solutions and services and also building a partnership with our customers is paramount in creating long term relationships. We providing smarter and better electro-mechanical engineering services aimed at enabling its customers around the country and in the region",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "name": "Employer Safaricom Ethiopia",
+        "description": "Commercial Power line connection services",
         "icon": "/assets/images/react.png"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "name": "Employer:- Universal electric access process(UEAP)",
+        "description": "Construction of MV and LV distribution Networks to Electrify Towns and villages ",
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "name": "Employer:- Universal electric access process(UEAP)",
+        "description": "Construction of 96km concrete pole 33kv double line from Tekeze HPP to AbiAdi town and installation of net stations and upgrading of otherfive villages Medium voltage lines.",
         "icon": "/assets/images/nextjs.svg"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "name": "Employer:- Universal electric access process(UEAP)",
+        "description": "Construction of 122km concrete pole medium voltage line works and more than 52 km low voltage distribution works in North shoa oromia region, ",
         "icon": "/assets/images/ts.png"
       }
     ]
