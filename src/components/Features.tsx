@@ -37,6 +37,9 @@ const Features = () => {
                   <p className="ml-16 text-lg leading-6 font-medium text-gray-900">
                     {feature.name}
                   </p>
+                  <p className="ml-16 text-lg leading-6 font-medium text-gray-900">
+                    {feature.amount}
+                  </p>
                 </dt>
                 <dd className="mt-2 ml-16 text-base text-gray-500">
                   {feature.description}

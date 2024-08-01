@@ -5,7 +5,7 @@
   },
   "navigation": [
     {
-      "name": "Product",
+      "name": "Expertise",
       "href": "product"
     },
     {
@@ -14,7 +14,7 @@
     },
 
     {
-      "name": "Pricing",
+      "name": "Gallery",
       "href": "pricing"
     },
     {
@@ -32,12 +32,8 @@
     "description": "Power design and installation works. Lifts and escalators installation works. Solar panels supply & installation services. Generator and appliances installation services. Telecom fiber line works. Other Electrical and Mechanical works",
     "img": "/assets/images/hadu.png",
     "primaryAction": {
-      "text": "Get started",
+      "text": "Contact us",
       "href": "#"
-    },
-    "secondaryAction": {
-      "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
     }
   },
   "product": {
@@ -46,17 +42,17 @@
       {
         "title": "Power design and installation works.",
         "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/product1.jpg"
+        "img": "/assets/images/transformer.jpg"
       },
       {
         "title": "Generator and appliances installation services!",
         "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "img": "/assets/images/control.jpg"
       },
       {
         "title": "Telecom power/fiber line works",
         "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "img": "/assets/images/fiber.jpg"
       }
     ]
   },
@@ -66,28 +62,35 @@
     "items": [
       {
         "name": "Employer Safaricom Ethiopia",
-        "description": "Commercial Power line connection services",
-        "icon": "/assets/images/react.png"
+        "amount": "15 million USD",
+        "description": "Commercial Power line connection services SOWRef.No:002",
+        "icon": "/assets/images/safaricom.jpg"
       },
       {
         "name": "Employer:- Universal electric access process(UEAP)",
-        "description": "Construction of MV and LV distribution Networks to Electrify Towns and villages ",
-        "icon": "/assets/images/tailwindcss.svg"
+        "amount": "4.3 million USD",
+
+        "description": "Construction of MV and LV distribution Networks to Electrify Towns and villages Construction of 122km concrete pole medium voltage lineworks and more than 52km lowvoltage distribution works in North shoa oromia region,Debrebirhan-Sheno33kv line and south wello areas.",
+        "icon": "/assets/images/ueap.jpg"
       },
       {
         "name": "Employer:- Universal electric access process(UEAP)",
-        "description": "Construction of 96km concrete pole 33kv double line from Tekeze HPP to AbiAdi town and installation of net stations and upgrading of otherfive villages Medium voltage lines.",
-        "icon": "/assets/images/nextjs.svg"
+        "amount": "3.2 million USD",
+
+        "description": "Construction of MV and LV distribution Networks to Electrify Towns and villages Construction of 96km concrete pole 33kv double line from Tekeze HPP to Abi Adi town and installation of net stations and upgrading of other five villages Medium voltage lines",
+        "icon": "/assets/images/ueap.jpg"
       },
       {
         "name": "Employer:- Universal electric access process(UEAP)",
-        "description": "Construction of 122km concrete pole medium voltage line works and more than 52 km low voltage distribution works in North shoa oromia region, ",
-        "icon": "/assets/images/ts.png"
+        "amount": "7.1 million USD",
+
+        "description": "Construction of MV and LV distribution Networks to Electrify Towns and villages ContractNo. UEAPB_2/01Lot_6 ,ContractNo. UEAPB_1/03Lot_74 Installation of LV Undergroundlines at D.B.BlanketFactory ",
+        "icon": "/assets/images/ueap.jpg"
       }
     ]
   },
   "pricing": {
-    "title": "Pricing",
+    "title": "Gallery",
     "items": [
       {
         "name": "Free",
