@@ -33,7 +33,7 @@
     "img": "/assets/images/hadu.png",
     "primaryAction": {
       "text": "Contact us",
-      "href": "#"
+      "href": "mailto:mirishtam@gmail.com"
     }
   },
   "product": {
