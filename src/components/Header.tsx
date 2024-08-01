@@ -59,7 +59,7 @@ const Menu = () => {
                 </Link>
               ))}
               <a
-                href="profile.pdf"
+                href="/profile.pdf"
                 className={`font-medium text-primary hover:text-secondary`}
               >
                 Company profile
