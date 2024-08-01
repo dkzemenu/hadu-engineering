@@ -59,10 +59,10 @@ const Menu = () => {
                 </Link>
               ))}
               <a
-                href="#"
+                href="profile.pdf"
                 className={`font-medium text-primary hover:text-secondary`}
               >
-                Call to action
+                Company profile
               </a>
             </div>
           </nav>
