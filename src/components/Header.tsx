@@ -61,6 +61,7 @@ const Menu = () => {
               <a
                 href="/profile.pdf"
                 className={`font-medium text-primary hover:text-secondary`}
+                download="profile.pdf"
               >
                 Company profile
               </a>
