@@ -59,9 +59,9 @@ const Menu = () => {
                 </Link>
               ))}
               <a
-                href="/profile.pdf"
+                href="/Profile.pdf"
                 className={`font-medium text-primary hover:text-secondary`}
-                download="profile.pdf"
+                download="profile"
               >
                 Company profile
               </a>
